@@ -215,7 +215,7 @@ client.placeholder	#002b36	#dc322f	#fdf6e3	#002b36	#002b36
 #######################################################
 
 bar {
-  	status_command i3blocks -c /home/johan/.config/i3/i3blocks.conf
+  	status_command i3blocks
 	colors {
 		background #586e75
 	    	focused_workspace  #586e75          #586e75          #fdf6e3
