@@ -198,6 +198,7 @@ exec_always feh --bg-scale /home/johan/Pictures/Wallpaper.jpg
 
 for_window [instance="origin.exe"] floating enable
 
+bindsym Print exec deepin-screenshot
 
 #######################################################
 #                        Colors                       #
